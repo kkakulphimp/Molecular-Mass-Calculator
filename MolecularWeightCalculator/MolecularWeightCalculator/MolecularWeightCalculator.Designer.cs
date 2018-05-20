@@ -174,7 +174,7 @@
             this.Controls.Add(this.UI_dataGridView);
             this.MinimumSize = new System.Drawing.Size(500, 499);
             this.Name = "MolecularWeightCalculator";
-            this.Text = "LINQ ICA - Molecular Weight Calculator";
+            this.Text = "Molecular Mass Calculator";
             ((System.ComponentModel.ISupportInitialize)(this.UI_dataGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

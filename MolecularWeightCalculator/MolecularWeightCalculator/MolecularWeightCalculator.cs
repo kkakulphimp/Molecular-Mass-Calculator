@@ -2,7 +2,6 @@
  *  Assignment: Molecular Mass Calculator
  *  Written by: Karun Kakulphimp
  *              Reeshav Kumar
- *              Felipe Restrepo Rubio
  *  Description:
  *      This program allows the user to input the formula
  *      for a chemical compound which will then be parsed
